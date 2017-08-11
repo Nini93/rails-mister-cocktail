@@ -1,14 +1,13 @@
-.wrapper {
-background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('cocktail.jpg');
-background-size: cover;
+.wrapper_show {
+background-size: cover !important;
 background-position: center;
-height: 100vh;
+height: 60vh;
 display: flex;
 justify-content : center;
 align-items: center;
 margin-bottom: 15px;
 }
-.content {
+.content_show {
   width: 1000px;
   text-align: center;
   h2 {

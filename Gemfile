@@ -49,6 +49,8 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
+gem 'faker'
+gem 'binding_of_caller'
 
 ruby '2.3.4'
 

@@ -1,13 +1,27 @@
 // Specific CSS for your home-page
+.container{
+  padding: 20px;
+  i{
+    padding : 30px;
+  }
+
+}
+
+.apple {
+  color: $blue;
+  font-size: 30px;
+  padding: 5px;
+}
+
 .card {
-  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url('cocktail_2.jpg');
   height: 175px;
   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
   background-size: cover !important;
   background-position: center;
   color: white;
   position: relative;
-  margin-top: 30px,
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 
